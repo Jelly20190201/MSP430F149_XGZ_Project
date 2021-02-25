@@ -1,0 +1,4 @@
+使用JTAG下载时，拔掉所有BSL的跳帽，并拔掉Vcc和Vcc tool的跳帽
+记得仿真器得选FET Debugger，不能选simulate
+
+IO口设置输入输出需要delay后稳定

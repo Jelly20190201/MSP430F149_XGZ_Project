@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>F149_2300/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>254</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22738-691</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>F149_2300</ExpandedNode><ExpandedNode>F149_2300/main.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>5289</SelStart><SelEnd>5289</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Config.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>3647</SelStart><SelEnd>3647</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ASIC_I2C_Module.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>4349</SelStart><SelEnd>4349</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\GPIO_I2C_SubFunction.c</Filename><XPos>0</XPos><YPos>214</YPos><SelStart>4834</SelStart><SelEnd>4834</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\F149_MCU\main.c</Filename><XPos>0</XPos><YPos>450</YPos><SelStart>12373</SelStart><SelEnd>12373</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0 Evaluation\430\inc\in430.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0 Evaluation\430\inc\intrinsics.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 6.0 Evaluation\430\inc\msp430x14x.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0541f580><key>iaridepm.enu1</key></Toolbar-0541f580></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>952</Bottom><Right>328</Right><x>-2</x><y>-2</y><xscreen>270</xscreen><yscreen>285</yscreen><sizeHorzCX>140625</sizeHorzCX><sizeHorzCY>285858</sizeHorzCY><sizeVertCX>171875</sizeVertCX><sizeVertCY>956871</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
